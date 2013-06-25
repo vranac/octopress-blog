@@ -1,5 +1,4 @@
 ---
-author: vranac
 comments: true
 date: 2012-02-28 22:04:56+00:00
 layout: post
@@ -16,6 +15,7 @@ tags:
 - osx
 - vhost
 published: true
+comments: false
 ---
 
 Front end developers in the team we are a part of are using MAMP to serve their websites localy.

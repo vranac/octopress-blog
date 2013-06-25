@@ -1,5 +1,4 @@
 ---
-author: vranac
 comments: true
 date: 2011-03-08 21:38:00+00:00
 layout: post
@@ -11,6 +10,7 @@ categories:
 - Linux
 - Ubuntu
 published: true
+comments: false
 ---
 
 Lately I have been doing a lot of php development, and I am using Ubuntu Linux for it.

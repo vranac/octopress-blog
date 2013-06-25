@@ -1,5 +1,4 @@
 ---
-author: vranac
 comments: true
 date: 2010-09-08 19:34:11+00:00
 layout: post
@@ -15,6 +14,7 @@ tags:
 - AS3
 - Flash
 published: true
+comments: false
 ---
 
 

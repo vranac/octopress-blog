@@ -1,5 +1,4 @@
 ---
-author: vranac
 comments: true
 date: 2010-03-30 15:30:56+00:00
 layout: post
@@ -15,6 +14,7 @@ tags:
 - Rant
 - Rave
 published: true
+comments: false
 ---
 
 On Saturday the 27th of April I attended my first MS CodeCamp in Belgrade. Up to now I tried to keep up either by livecasts, or by later watching the recordings (if available).

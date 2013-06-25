@@ -1,5 +1,4 @@
 ---
-author: vranac
 comments: true
 date: 2010-05-30 18:30:26+00:00
 layout: post
@@ -18,6 +17,7 @@ tags:
 - Ruby
 - windows 7
 published: true
+comments: false
 ---
 
 While trying to setup the RoR with XAMPP on my windows 7 machine I encoundered an error

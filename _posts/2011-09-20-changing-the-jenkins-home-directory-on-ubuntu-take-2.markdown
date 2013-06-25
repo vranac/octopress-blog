@@ -1,5 +1,4 @@
 ---
-author: vranac
 comments: true
 date: 2011-09-20 08:53:20+00:00
 layout: post
@@ -15,6 +14,7 @@ tags:
 - jenkins
 - ubuntu
 published: true
+comments: false
 ---
 
 A month ago, [Robert](http://robertbasic.com/blog/changing-jenkins-home-directory-on-ubuntu/) blogged about changing the Jenkins CI home directory on Ubuntu.

@@ -1,5 +1,4 @@
 ---
-author: vranac
 comments: true
 date: 2013-01-08 20:32:08+00:00
 layout: post
@@ -17,6 +16,7 @@ tags:
 - puppet
 - vagrant
 published: true
+comments: false
 ---
 
 As mentioned [here](2013/01/pear-packages-installation-under-vagrant-with-puppet/) for our current project we are using Vagrant and Puppet.

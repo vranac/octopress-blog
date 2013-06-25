@@ -1,5 +1,4 @@
 ---
-author: vranac
 comments: true
 date: 2011-08-24 07:50:40+00:00
 layout: post
@@ -17,6 +16,7 @@ tags:
 - Symfony 2
 - Symfony2
 published: true
+comments: false
 ---
 
 I am currently working on some Symfony2 bundles, I needed a custom repository to house hold my custom queries, that part is easy with sf2, and quite nicely explained in the [Manual](http://symfony.com/doc/current/book/doctrine.html#custom-repository-classes).

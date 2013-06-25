@@ -1,5 +1,4 @@
 ---
-author: vranac
 comments: true
 date: 2011-08-25 16:03:58+00:00
 layout: post
@@ -15,6 +14,7 @@ tags:
 - Sonata
 - Symfony 2
 published: true
+comments: false
 ---
 
 I am writing a bundle that needs to have a file uploaded to server and later served, I am also using Sonata Admin bundle.

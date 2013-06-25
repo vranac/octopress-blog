@@ -1,5 +1,4 @@
 ---
-author: vranac
 comments: true
 date: 2010-04-05 18:33:22+00:00
 layout: post
@@ -18,6 +17,7 @@ tags:
 - ssh
 - Windows
 published: true
+comments: false
 ---
 
 For a long time I have been a Subversion([SVN](http://subversion.tigris.org/)) user, but a few months back (or is it a year) I heard about this new fangled VCS with a **D** in front, called [Git](http://git-scm.com/). After a few chuckles about the name, I was curious to see how, and why it is supposedly better than SVN.

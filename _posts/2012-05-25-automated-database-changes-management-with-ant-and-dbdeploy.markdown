@@ -1,5 +1,4 @@
 ---
-author: vranac
 comments: true
 date: 2012-05-25 16:20:30+00:00
 layout: post
@@ -17,6 +16,7 @@ tags:
 - dbdeploy
 - mysql
 published: true
+comments: false
 ---
 
 In the last couple of months we started using [Ant tool](http://ant.apache.org/) heavily to do server deployments, along with [Jenkins](http://jenkins-ci.org/) server (although not in the role it was intended, but hey, it serves the purpose).

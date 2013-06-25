@@ -1,5 +1,4 @@
 ---
-author: vranac
 comments: true
 date: 2010-06-12 15:15:34+00:00
 layout: post
@@ -18,6 +17,7 @@ tags:
 - IDE
 - IntelliJ Idea
 published: true
+comments: false
 ---
 
 

@@ -1,5 +1,4 @@
 ---
-author: vranac
 comments: true
 date: 2011-01-18 13:46:58+00:00
 layout: post
@@ -15,6 +14,7 @@ tags:
 - sesmic
 - Silverlight
 published: true
+comments: false
 ---
 
 If you are like me, you use twitter a lot, and one of the most annoying things about most of the desktop clients is the lack of filtering out the noise from useful tweets.

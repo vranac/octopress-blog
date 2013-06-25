@@ -1,5 +1,4 @@
 ---
-author: vranac
 comments: true
 date: 2013-01-07 22:33:23+00:00
 layout: post
@@ -18,6 +17,7 @@ tags:
 - ubuntu
 - vagrant
 published: true
+comments: false
 ---
 
 I have been running Vagrant vm with Puppet for the last 4 months for my development work.

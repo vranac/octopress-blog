@@ -1,5 +1,4 @@
 ---
-author: vranac
 comments: true
 date: 2012-01-27 09:13:19+00:00
 layout: post
@@ -19,6 +18,7 @@ tags:
 - shell
 - terminal
 published: false
+comments: false
 ---
 
 Recently I needed to reuse some files by renaming them or just parts of the name that have a certain word in it.

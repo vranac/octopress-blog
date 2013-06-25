@@ -1,5 +1,4 @@
 ---
-author: vranac
 comments: true
 date: 2012-01-27 08:47:39+00:00
 layout: post
@@ -17,6 +16,7 @@ tags:
 - shell
 - terminal
 published: true
+comments: false
 ---
 
 Recently I needed to reuse some files by replacing certain words in them.
