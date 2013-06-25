@@ -23,7 +23,7 @@ comments: false
 I have been running Vagrant vm with Puppet for the last 4 months for my development work.
 Most of the vagrant stuff is pretty straight forward, once you grasp the concepts.
 This post will assume that you are familiar with Vagrant and Puppet, if you are not [this](http://docs.vagrantup.com/v1/docs/getting-started/index.html) is a great place to start.
-
+<!--more-->
 One aspect of my setup was lacking pear packages installation was prone to errors and as a result of that failed dependencies.
 More often than not I would get this fun little error message
 

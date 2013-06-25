@@ -23,7 +23,7 @@ As mentioned [here](2013/01/pear-packages-installation-under-vagrant-with-puppet
 In the link above I described how I solved the pear packages installation under Puppet.
 
 We are using Symfony 2.0.15 with MongoDB, I need to use version 1.2.9 to avoid the whole setSlaveOK hubbub as described [here](https://github.com/doctrine/mongodb/issues/66).
-
+<!--more-->
 The original puppet task we used looked like:
 ```ruby
 # install mongodb driver
