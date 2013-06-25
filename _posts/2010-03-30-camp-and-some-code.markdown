@@ -13,6 +13,7 @@ tags:
 - Event
 - Rant
 - Rave
+keywords: codeCamp, event, rant, rave
 published: true
 comments: false
 ---
